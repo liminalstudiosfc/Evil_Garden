@@ -108,7 +108,7 @@ Recomenda-se utilizar a mesma versão da Unity utilizada durante o desenvolvimen
 Clone o repositório utilizando o comando:
 
 ```bash
-git clone https://github.com/GabrielNazario1227/Game_Evil_Garden_.git
+git clone https://github.com/liminalstudiosfc/Evil_Garden
 ```
 
 ## Executando o Projeto
