@@ -133,7 +133,7 @@ Nesse caso, não é necessário abrir o projeto através da Unity. Basta realiza
 
 | Integrante | Função |
 |---|---|
-| Luiz Henrique | Lead Game Designer & UI/UX |
+| Luiz "Ludy" Henrique | Lead Game Designer & UI/UX |
 | Davi Nunes | Lead Developer |
 | Gabriel Nazario | Game Director |
 | Pedro Henrique | Lead Sound Designer & Audio Director |
